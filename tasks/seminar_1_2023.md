@@ -1,5 +1,7 @@
 # Seminar 1: Science, its processes and community
-The focus of seminar 1 is science and engineering, the scientific community and it's processes, as well as bibliometrics. Before the seminar you should study the preporatory material and think about and write down your own answer to the preporatory questions. After the seminar you should write down brief answers to the assignment questions and include them in your course report.
+The focus of seminar 1 is science and engineering, the scientific community and it's processes, as well as bibliometrics. 
+
+Before the seminar you should study the preporatory material and think about and write down your own answer to the preporatory questions. After the seminar you should write down brief answers to the assignment questions and include them in your course report.
 
 ## Preporatory study materials
 P1.1. Watch these short videos on Feynman, Cox, Popper and Kuhns' views on what science is:
@@ -25,7 +27,7 @@ P1.3. Read about the difference between Engineering and Science:
 calculated?
 
 ## Assignment questions
-- AQ1.1. What are the advantages and disadvantages/risks with bibliometric metrics such as the h-index?
-- AQ1.2 Can you, for example, compare the h-index of a person in, say, formal methods, to those of a person in SE? Or someone in medicine to those of someone in SE.
-- AQ1.3 Should hiring committees care about bibliometric measures when assessing candidates for a university faculty position? Do you think they do, or not?
-- AQ1.4. Should you be aware of bibliometric measures in your own academic career/project? Why? How?
+- AQ1.1. What are the advantages and disadvantages/risks with bibliometric metrics such as the h-index? Can you, for example, compare the h-index of a person in, say, formal methods, to those of a person in SE? Or someone in medicine to those of someone in SE.
+- AQ1.2 Should hiring committees care about bibliometric measures when assessing candidates for a university faculty position? Do you think they do, or not? 
+- AQ1.3. Should you be aware of bibliometric measures in your own academic career/project? Why? How?
+- AQ1.4. Find two papers in your sub-area of SE that you think are important for science, one being highly cited and one not highly cited. Discuss why you think one might have gotten more citations over the years and the other one didn't. Does one of them do/represent better or worse science, from your point of view?
