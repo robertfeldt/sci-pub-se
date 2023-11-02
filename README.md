@@ -37,3 +37,7 @@ Robert Feldt is Professor of Software Engineering at Chalmers University of Tech
 Robert first gave the course at Chalmers University of Technology in Gothenburg during 2009-2012 and then in a short version, focused on journal and conference publication and reviewing, from 2019-2023 at Blekinge Institute of Technology.
 
 During 2023 the course was reworked and extended to be given as a 2-day intensive course at NTNU in Trondheim, Norway.
+
+### Trondheim course 2023-11-16
+The course was organized as a two-day event with 2 seminars per day:
+- [Seminar 1](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_1_2023.md): Science, community, and bibliometrics
