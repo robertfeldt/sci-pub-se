@@ -41,3 +41,6 @@ During 2023 the course was reworked and extended to be given as a 2-day intensiv
 ### Trondheim course 2023-11-16
 The course was organized as a two-day event with 2 seminars per day:
 - [Seminar 1](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_1_2023.md): Science, community, and bibliometrics
+- [Seminar 2](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_2_2023.md): Publication, it's processes and your publication strategy
+- [Seminar 3](): 
+- [Seminar 4]():

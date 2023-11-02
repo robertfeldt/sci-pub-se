@@ -1,4 +1,4 @@
-# Seminar 1: Science, its processes and community
+# Seminar 2: Publication, it's processes and your publication strategy
 The focus of seminar 1 is on publication processes, how they work, and how you can develop a publication strategy. It is not enough just to do good research and then send it to any forum; you need to have a strategy for where to send what. To develop this you need to understand how processes of publication works for different fora, mainly for conferences and journals. We will discuss how these processes look, what you should strive for in your papers and which strategic choices are available.
 
 Before the seminar you should study the preporatory material and think about and write down your own answer to the preporatory questions. After the seminar you should write down brief answers to the assignment questions and include them in your course report.
