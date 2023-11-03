@@ -14,5 +14,7 @@ M3.1. Read Alan Smith's ["The Task of the Referee"](https://scholar.google.com/s
 M3.2 Read the ["General standard" guideline](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/GeneralStandard.md) for SE papers from the "Empirical Standards for Software Engineering Research"
   - Latest PDF of ["Empirical Standards for Software Engineering Research"](https://arxiv.org/abs/2010.03525)
 
+M3.3 ICSE 2024 Review Criteria as stated in it's [call for paper](https://conf.researchr.org/track/icse-2024/icse-2024-research-track#Call-for-papers)
+
 ## Additional questions/tasks (post-seminar, for the interested)
 - AQ3.1. Generate a specific "Empirical Standards" guideline for a paper you are writing, have recently finished, or is about to review [using the online tool](https://www2.sigsoft.org/EmpiricalStandards/tools/)
