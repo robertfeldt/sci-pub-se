@@ -42,5 +42,5 @@ During 2023 the course was reworked and extended to be given as a 2-day intensiv
 The course was organized as a two-day event with 2 seminars per day:
 - [Seminar 1](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_1_2023.md): Science, community, and bibliometrics
 - [Seminar 2](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_2_2023.md): Publication, it's processes and your publication strategy
-- [Seminar 3](): Reading and reviewing Papers
+- [Seminar 3](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_3_2023.md): Reading and reviewing papers
 - [Seminar 4](): Research methods and validity threats
