@@ -39,8 +39,8 @@ Robert first gave the course at Chalmers University of Technology in Gothenburg 
 During 2023 the course was reworked and extended to be given as a 2-day intensive course at NTNU in Trondheim, Norway.
 
 ### Trondheim course 2023-11-16
-The course was organized as a two-day event with 2 seminars per day:
-- [Seminar 1](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_1_2023.md): Science, community, and bibliometrics
+The course is organized as a two-day event with 2 seminars per day:
+- [Seminar 1](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_1_2023.md): Science, engineering, community, and bibliometrics
 - [Seminar 2](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_2_2023.md): Publication, it's processes and your publication strategy
 - [Seminar 3](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_3_2023.md): Reading and reviewing papers
 - [Seminar 4](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_4_2023.md): Research methods and validity threats
