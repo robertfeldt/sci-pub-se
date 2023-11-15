@@ -17,7 +17,7 @@ Course is focused on seminars and discussion to help the participants form their
 The course is based on seminars to which PhD students prepare and after which they write down their views in (a) brief report(s). The idea is to give hands-on practical advice and show examples of how the software engineering research community functions. Since the course is an initial course, limited in size and scope, we go broad rather than in depth. But, at least, participants get a grounding in key activities and practices and can then go deeper as they see fit. 
 
 ## Course goals
-After completion of the course the students is expected to be able to: 
+After completion of the course the participants are expected to be able to: 
 - Read SE research papers and describe their motivation, the methods used and the results achieved
 - State the strong and weak points of an SE study, the threats to validity as well as how the study can be improved
 - Identify the research paradigm and method used in a SE study and compare it to alternative methods
