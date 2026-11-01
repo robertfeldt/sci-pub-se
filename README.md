@@ -35,9 +35,14 @@ A three-day intensive course organised by the Gemini "Norwegian Centre for Softw
 
 The overview below is indicative; the exact content and order may be adjusted during the course based on the discussions.
 
-- **Day 1 (Monday): Science and the publication system.** Science vs. engineering and evidence in SE; bibliometrics and the reform of research assessment (e.g. DORA, CoARA, and the Norwegian and Swedish contexts); how conferences and journals work and the strain on them from rising submission volumes. [Preparation](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day1_monday_2026.md)
-- **Day 2 (Tuesday): Judging papers, others' and your own.** Editorial and review processes; reading and reviewing papers; checking whether claims are supported by evidence, including with an AI-based claim–evidence tool; paper clinics on participants' own papers. [Preparation](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day2_tuesday_2026.md)
-- **Day 3 (Wednesday): Trustworthy evidence and the future of research.** Research methods and validity threats (including LLM-specific ones); evidence, authenticity and trust when AI can generate plausible text and data; how AI may change science; personal AI-use policies and publication strategies. [Preparation](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day3_wednesday_2026.md)
+| | Monday 13:15–17:00 | Tuesday 09:15–16:00 | Wednesday 09:15–15:00 |
+|---|---|---|---|
+| **Theme** | Science and the publication system | Judging papers, others' and your own | Trustworthy evidence and the future of research |
+| **Morning** | | How editors and PCs decide · Reading and reviewing papers | Research methods and validity · AI, evidence and trust |
+| **Lunch** | | 12:00–13:00 | 12:00–13:00 |
+| **Afternoon** | Science vs. engineering, evidence · Metrics and reform of research assessment · The publication system under strain | Do my claims follow from my evidence? (AI claim–evidence analysis) · Paper clinics | AI and the future of science · Your AI-use policy · Your publication strategy, next steps |
+| **Evening** | Course dinner | | |
+| **Preparation** | [Day 1 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day1_monday_2026.md) | [Day 2 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day2_tuesday_2026.md) | [Day 3 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day3_wednesday_2026.md) |
 
 Preparation consists mainly of questions to think about from your own experience and your own paper; readings are optional.
 
