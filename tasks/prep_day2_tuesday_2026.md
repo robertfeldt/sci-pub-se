@@ -24,5 +24,5 @@
 ## Optional reading (pick one or two, ~30–45 minutes)
 
 - Mary Shaw, ["Writing Good Software Engineering Research Papers"](https://www.cs.cmu.edu/~Compose/shaw-icse03.pdf), ICSE 2003. Old, but short and a classic: what kinds of questions, results and validation SE papers present.
-- Alan Jay Smith, "The Task of the Referee", IEEE Computer, 1990 ([find via Google Scholar](https://scholar.google.com/scholar?q=smith+task+of+the+referee)). What a referee is actually asked to judge.
+- Alan Jay Smith, "The Task of the Referee", IEEE Computer 23(4), 1990 ([published version](https://doi.org/10.1109/2.55470); [free version as Berkeley technical report](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/6154.html)). What a referee is actually asked to judge.
 - ACM SIGSOFT Empirical Standards, [General Standard](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/standards/GeneralStandard.md). The essential attributes reviewers (might) check in any empirical SE paper. Skim it.
