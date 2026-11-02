@@ -1,0 +1,17 @@
+# Core GRADE 1: overview of the Core GRADE approach
+
+Guyatt G, Agoritsas T, Brignardello-Petersen R, et al. (24 authors). *BMJ* 2025;389:e081903. https://doi.org/10.1136/bmj-2024-081903
+
+## TLDR
+- **Two core processes:** (a) judge the *certainty of evidence* for each important outcome, presented in a summary of findings table; (b) move from evidence to *recommendations* with a direction (for/against) and a strength (strong or conditional/weak). Systematic reviews stop after (a); guidelines and health technology assessments do both.
+- **Start with a precise question (PICO):** population, intervention, comparison, outcome. Past GRADE use was often imprecise here; Core GRADE stresses defining the target population especially carefully, ideally with a GRADE expert and a steering group.
+- **Rate the importance of outcomes** from the perspective of the affected people (9-point scale: 7–9 critical, 4–6 important, 1–3 not important), including the relevant time frame. The *lowest certainty among critical outcomes* sets the overall certainty for a recommendation. Stand-alone systematic reviews need not distinguish critical from important.
+- **Relative vs absolute effects:** relative effects are usually similar across subgroups (true subgroup effects are uncommon), but absolute effects differ a lot with baseline risk, and it is absolute effects that matter to patients. Example: same relative effect of nirmatrelvir-ritonavir, but ~4 vs ~50 fewer hospital admissions per 1000 for low- vs high-risk patients, giving a weak recommendation against vs a strong recommendation for.
+- **Be parsimonious with subgroup hypotheses:** ideally ≤3, each with a stated *direction*; many or undirected hypotheses undermine credibility.
+- **Indirect evidence** (studies whose PICO differs from the target) may be needed when direct evidence is weak; such evidence is rated down for indirectness.
+- **Certainty = confidence that the true effect lies on one side of a threshold or within a range**, rated high / moderate / low / very low for the *body of evidence* per outcome, not for individual studies.
+- **Starting points and adjustments:** randomised trials start high, non-randomised studies start low. Five domains can rate down (risk of bias, imprecision, inconsistency, indirectness, publication bias), each as not serious / serious (−1) / very serious (−2) / rarely extremely serious. Two can rate up non-randomised evidence only: large effect, dose-response. Earlier "rating up for plausible confounding" is dropped as too hard to apply.
+- **Certainty is a continuum cut into four categories:** near cut-offs, apparent disagreement can hide true agreement. Domain-by-domain rating can swing from high to very low on close calls, so users must *step back and take an overall view* rather than mechanically summing downgrades.
+- **Summary of findings tables:** one row per outcome with measurement details, number of studies and participants, relative and absolute effects with CIs, certainty with reasons for downgrading, and a plain-language statement.
+- **From evidence to recommendations:** weigh benefits, harms and burdens; certainty; and explicitly stated patient values and preferences. Secondarily cost, feasibility, acceptability and equity (mainly from a population perspective).
+- **Self-declared limitation:** subjectivity in virtually every important judgment. The authors argue this is unavoidable for any useful system; mechanical, never-to-be-broken rules would produce poor judgments.

@@ -42,6 +42,7 @@ The overview below is indicative; the exact content and order may be adjusted du
 | **Lunch** | | 12:00–13:00 | 12:00–13:00 |
 | **Afternoon** | Science vs. engineering, evidence · Metrics and reform of research assessment · The publication system under strain | Do my claims follow from my evidence? (AI claim–evidence analysis) · Paper clinics | AI and the future of science · Your AI-use policy · Your publication strategy, next steps |
 | **Evening** | Course dinner | | |
+| **Slides** | [Seminar 1: Science, engineering, community and bibliometrics](slides/feldt_scipub_Trondheim_261102_seminar1_science_engineering_community_bibliometrics.pdf) | | |
 | **Preparation** | [Day 1 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day1_monday_2026.md) | [Day 2 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day2_tuesday_2026.md) | [Day 3 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day3_wednesday_2026.md) |
 
 Preparation consists mainly of questions to think about from your own experience and your own paper; readings are optional.
