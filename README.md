@@ -38,11 +38,11 @@ The overview below is indicative; the exact content and order may be adjusted du
 | | Monday 13:15–17:00 | Tuesday 09:15–16:00 | Wednesday 09:15–15:00 |
 |---|---|---|---|
 | **Theme** | Science and the publication system | Judging papers, others' and your own | Trustworthy evidence and the future of research |
-| **Morning** | | How editors and PCs decide · Reading and reviewing papers | Research methods and validity · AI, evidence and trust |
+| **Morning** | | How editors and PCs decide · Reading and reviewing papers | Research methods and validity |
 | **Lunch** | | 12:00–13:00 | 12:00–13:00 |
-| **Afternoon** | Science vs. engineering, evidence · Metrics and reform of research assessment · The publication system under strain | Do my claims follow from my evidence? (AI claim–evidence analysis) · Paper clinics | AI and the future of science · Your AI-use policy · Your publication strategy, next steps |
+| **Afternoon** | Science vs. engineering, evidence · Metrics and reform of research assessment · The publication system under strain | Do my claims follow from my evidence? (AI claim–evidence analysis) · Paper clinics | AI, evidence and trust · AI and the future of science · Your AI-use policy · Your publication strategy, next steps |
 | **Evening** | Course dinner | | |
-| **Slides** | [Seminar 1: Science, engineering, community and bibliometrics](slides/feldt_scipub_Trondheim_261102_seminar1_science_engineering_community_bibliometrics.pdf) | | |
+| **Slides** | [Seminar 1: Science, engineering, community and bibliometrics](slides/feldt_scipub_Trondheim_261102_seminar1_science_engineering_community_bibliometrics.pdf) | [Seminar 2: Publication processes and strategies](slides/feldt_scipub_Trondheim_261103_seminar2_publication_processes_and_strategies.pdf) · [Seminar 3: Reading and reviewing papers](slides/feldt_scipub_Trondheim_261103_seminar3_reading_and_reviewing_papers.pdf) | [Seminar 4: Research methods and validity threats](slides/feldt_scipub_Trondheim_261104_seminar4_research_methods_and_validity_threats.pdf) · [Seminar 5: Evidence and trust in our AI future](slides/feldt_scipub_Trondheim_261104_seminar5_Evidence_and_Trust_in_our_AI_future.pdf) |
 | **Preparation** | [Day 1 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day1_monday_2026.md) | [Day 2 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day2_tuesday_2026.md) | [Day 3 prep](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/prep_day3_wednesday_2026.md) |
 
 Preparation consists mainly of questions to think about from your own experience and your own paper; readings are optional.
