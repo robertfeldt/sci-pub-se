@@ -1,6 +1,6 @@
 # Matsubara & Conte (2026), "Bridging the Gap: Adapting Evidence to Decision Frameworks to support the link between Software Engineering academia and industry"
 
-**Links:** https://arxiv.org/abs/2602.08015
+**Links:** https://arxiv.org/abs/2602.08015 (PDF on arXiv; not hosted here)
 
 5-page vision paper, ICSE Future of Software Engineering (FoSE) 2026, arXiv 2602.08015.
 
