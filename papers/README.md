@@ -34,14 +34,21 @@ All readings are optional. They are here so you can follow up on what we discuss
 - [CoARA 2022, Agreement on Reforming Research Assessment](coara_2022_agreement_on_reforming_research_assessment.pdf) 📄: the European coalition that commits signatories to qualitative, peer-review-based assessment, with follow-up and monitoring. ([summary](coara_2022_agreement_on_reforming_research_assessment.md))
 - [UHR 2021, NOR-CAM toolbox for recognition and rewards](uhr_2021_nor-cam_toolbox_for_recognition_and_rewards.pdf) 📄: Norway's framework for assessing a wider range of academic work; "everybody should not do everything". ([summary](uhr_2021_nor-cam_toolbox_for_recognition_and_rewards.md))
 
+Related web resources:
+- [Chalmers: Docent at Chalmers](https://www.chalmers.se/en/about-chalmers/work-with-us/appointment-regulations-and-academic-career-paths/#docent-at-chalmers): how one university now assesses researchers for the docent title, built around a narrative application (max 4 pages) and 5–10 selected publications, alongside the CV and full publication list.
+- [Feldt: ranking of ISI-listed SE journals](https://www.cse.chalmers.se/~feldt/advice/se_venues/index.html): an older alternative to the journal impact factor, ranking SE journals by the median citations per paper and year (data last updated 2016).
+- [Feldt: How many papers in a Swedish SE thesis?](https://www.cse.chalmers.se/~feldt/advice/statistics_se_theses.html): statistics on the papers in Swedish (and one Norwegian university's) SE PhD and licentiate theses; Swedish PhD theses averaged 7.0 papers, 5.3 of them published.
+
 ## 3. Publication, writing and reviewing (Seminars 2 and 3)
 
 *What makes a good SE paper, and how do reviewers judge it?*
 
 - [Shaw 2003, Writing good SE research papers](https://www.cs.cmu.edu/~Compose/shaw-icse03.pdf): the three questions every paper must answer, and the types of results and validation SE reviewers accept. ([summary](shaw_2003_writing_good_se_research_papers.md))
+- [Mensh & Kording 2017, Ten simple rules for structuring papers](mensh_2017_ten_simple_rules_for_structuring_papers.pdf) 📄: one central contribution, context–content–conclusion at every scale, and a table of signs that each rule is being broken. ([summary](mensh_2017_ten_simple_rules_for_structuring_papers.md))
 - [Smith 1990, The Task of the Referee](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1989/6154.html): a classic guide to evaluating a paper and writing a referee report; most of it still applies. ([summary](smith_1990_task_of_the_referee.md))
 - [Ralph et al. 2020, ACM SIGSOFT Empirical Standards](https://arxiv.org/pdf/2010.03525): public, method-specific checklists of what reviewers should (and should not) expect. ([summary](ralph_2020_acm_sigsoft_empirical_standards.md))
 - [Munafò et al. 2017, A manifesto for reproducible science](munafo_2017_manifesto_for_reproducible_science.pdf) 📄: threats across the research cycle and the measures against them; returns in Seminar 5. ([summary](munafo_2017_manifesto_for_reproducible_science.md))
+- [Ernst & Baldassarre 2023, Registered reports in software engineering](https://doi.org/10.1007/s10664-022-10277-5): what the first years of the conference + EMSE registered-reports track taught us, including what fits registration and what does not. ([summary](ernst_2023_registered_reports_in_se.md))
 
 ## 4. Research methods and validity (Seminar 4)
 
@@ -62,5 +69,5 @@ All readings are optional. They are here so you can follow up on what we discuss
 
 - [Angermeir et al. 2026, Reproducibility of commercial LLM performance in empirical SE](https://arxiv.org/pdf/2510.25506): of 85 LLM papers from ICSE/ASE 2024, only 5 could be rerun, and none fully reproduced. ([summary](angermeir_2026_reproducibility_of_commercial_llm_performance_in_ese.md))
 - [Baltes et al. 2026, Guidelines for empirical studies in SE involving LLMs](https://arxiv.org/pdf/2508.15503): eight community guidelines on reporting and validating LLM-based studies ([llm-guidelines.org](https://llm-guidelines.org/)). ([summary](baltes_2026_guidelines_for_empirical_studies_in_se_involving_llms.md))
-- Munafò et al. 2017 (above, section 3): registered reports, open data and other defences, revisited for when data can be generated.
+- Munafò et al. 2017 and Ernst & Baldassarre 2023 (above, section 3): registered reports, open data and other defences, revisited for when data can be generated.
 - Research-assessment reform (section 2): when papers and reviews become cheap, counts mean even less.
