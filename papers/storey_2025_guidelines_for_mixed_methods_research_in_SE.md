@@ -44,5 +44,5 @@ Storey M-A, Hoda R, Milani AMP, Baldassarre MT. *Empirical Software Engineering*
 - The constructive answer to Williams/Storey 2019 (SE rarely triangulates; reviewer pressure on generalisability). "Selling your soul" is that pressure turned into an antipattern.
 - For S4 pairs: "Could your alternative method be a second *strand*? Which of the four designs would it be, and where would you integrate?"
 - Many participants combine interviews and surveys. Which antipatterns apply? Uninvited guest and integration failure are the most common in submissions.
-- Links: Wohlin & Runeson 2021 (choice of methodology), the ABC framework (triangulation across quadrants), Petersen & Gencel (worldviews; MMR as the "third paradigm"), ACM SIGSOFT Empirical Standards (MixedMethods standard, available in `offline/empirical_standards_repo/docs/standards/MixedMethods.md`).
+- Links: Wohlin & Runeson 2021 (choice of methodology), the ABC framework (triangulation across quadrants), Petersen & Gencel (worldviews; MMR as the "third paradigm"), ACM SIGSOFT Empirical Standards (MixedMethods standard, https://github.com/acmsigsoft/EmpiricalStandards/blob/master/docs/standards/MixedMethods.md).
 - Sam's scenario (a PhD student studying a GenAI tool) is close to several participants' own projects.

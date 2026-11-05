@@ -2,7 +2,7 @@
 
 **Links:** https://llm-guidelines.org/ (living guidelines; summary is of release 2026.09) · paper: https://arxiv.org/abs/2508.15503
 
-EMSE (accepted manuscript; submitted 08/2025, final revision 06/2026). 22 authors (incl. Ralph, Prechelt, Wagner, Fucci, Martinez Montes). Living version at llm-guidelines.org (repo cloned in `offline/llm-guidelines-paper`).
+EMSE (accepted manuscript; submitted 08/2025, final revision 06/2026). 22 authors (incl. Ralph, Prechelt, Wagner, Fucci, Martinez Montes). Living version at llm-guidelines.org.
 
 - **Problem:** LLM-based SE studies are hard to reproduce, for three reasons:
   - non-determinism;

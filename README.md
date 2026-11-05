@@ -2,6 +2,8 @@
 
 This is the home page for the PhD course "Scientific Publishing in SE" given by Robert Feldt.
 
+**Quick links:** [Slides from all course instances](slides/slides_overview.md) · [Papers and readings, by course theme](papers/README.md)
+
 ## Introduction
 The course is focused on seminars and discussion to help participants form their own views and answers, both on a theoretical and a practical level, to key questions like:
 - What is a good scientific study in software engineering (SE)?
@@ -63,5 +65,3 @@ The course was organized as a two-day event with 2 seminars per day:
 - [Seminar 2](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_2_2023.md): Publication, its processes and your publication strategy ([slides](slides/feldt_scipub_Trondheim_seminar2_publication_processes_and_strategies.pdf))
 - [Seminar 3](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_3_2023.md): Reading and reviewing papers ([slides](slides/feldt_scipub_Trondheim_seminar3_writing_reading_reviewing_papers.pdf))
 - [Seminar 4](https://github.com/robertfeldt/sci-pub-se/blob/main/tasks/seminar_4_2023.md): Research methods and validity threats ([slides](slides/feldt_scipub_Trondheim_seminar4_research_methods_and_validity_threats.pdf))
-
-See also the [slides overview](slides/slides_overview.md).
