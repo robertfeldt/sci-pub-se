@@ -20,6 +20,6 @@ Nature Human Behaviour 4:1092–1094. File: Cardiff ORCA accepted version (16 pp
 - **Climbing is incremental:** "An ERL6 study built on a shaky ERL1 foundation will be of little use." Moving up requires investment and **epistemic humility**.
 
 **Teaching hooks**
-- Striking for SE: a well-done systematic review is only ERL3. Most SE "evidence for practitioners" sits there, or is a single study at ERL1–2.
+- Transfer to SE (our extrapolation; the ladder is proposed for behavioural science): even a careful systematic review gets findings to at most ERL3. Most SE "evidence for practitioners" sits there, or is a single study at ERL1–2.
 - "What ERL is your contribution?" Benchmark results vs field use. SE people know TRLs from industry projects.
 - Complements GRADE/CERQual (how certain is the finding?) with a different question: is it ready to *use*, here? Same spirit as Cartwright.
